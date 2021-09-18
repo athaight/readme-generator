@@ -8,10 +8,6 @@
 
 <p align="center">**assignment as part of coding bootcamp**</p>
 
-<p align="center">
-  https://youtu.be/8NZw-QkbYuA
-</p>
-
 A README.md generator which runs by prompting the user for responses in the console and generates a markdowm README file using the received user's input injected into a README.md template, similar to the format of this README document.  
 
 ## About the Project
