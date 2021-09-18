@@ -1,6 +1,5 @@
-<h1 align="center">README.md-Generator</h1>
-<img src="./readme_assets/h2.png" width="100%">
-<h2 align="center"><a href="https://github.com/athaight/readme-generator/edit/main/README.md">Live Demo</a></h2>
+<h1>README.md-Generator</h1>
+<p  align="center"><img src="./assets/README_generator_DEMO_GIF.gif" /></p>
 
 ### Contributions are Welcome
 
