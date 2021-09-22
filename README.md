@@ -22,6 +22,29 @@ This is another homework assignment for the UofA coding bootcamp.
 I referenced an article on "How to Write Beautiful and Meaningful README.md written by Divyansh Tripathi <a href="https://silentlad.com/how-to-write-beautiful-and-meaningful-readme.md" target="_blank">(here) </a>posted under his username <a href="https://github.com/silent-lad" target="_blank">@silent-lad</a> on his website <a href="https://silentlad.com" target="_blank">silentlad.com</a>.
 I found the article to be insightful and it helped me to arrange and think about a README's importance more. 
 
+## Installation Instructions
+After you clone down your repo, you will need to install Node.js in your environment. This should be easily achieved with:
+
+###
+Clone the repo:
+```
+git clone git@github.com:athaight/object-oriented-programing-demo.git
+```
+###
+Install npm:
+```
+npm i
+```
+###
+Right click the index.js file and select "Run in intergrated terminal"
+
+Enter the following command:
+```
+node index.js
+```
+###
+
+
 ## Technologies used
 JavaScript- Utilizing Node.js with npm & inquirer
 
