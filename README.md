@@ -28,7 +28,7 @@ After you clone down your repo, you will need to install Node.js in your environ
 ###
 Clone the repo:
 ```
-git clone git@github.com:athaight/object-oriented-programing-demo.git
+git clone git@github.com:athaight/readme-generator.git
 ```
 ###
 Install npm:
